@@ -2,4 +2,4 @@
 Gitting started
 
 About me: jkekoamartin
-I am a second year student at Emory University studying Computer Science.
+I am a fourth year student at Emory University studying Computer Science.
